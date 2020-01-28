@@ -1,0 +1,22 @@
+{
+  "0" : {
+    "en": "hello",
+    "pl": "czesc"
+  },
+  "1" : {
+    "en": "mother",
+    "pl": "matka"
+  },
+  "2" : {
+    "en": "father",
+    "pl": "ojciec"
+  },
+  "3" : {
+    "en": "sister",
+    "pl": "siostra"
+  },
+  "4" : {
+    "en": "brother",
+    "pl": "brat"
+  }
+}
